@@ -17,11 +17,11 @@
 #### Комады для получения данных из БД:
 * Всё содержимое
     + {applicationUrl}/db/all
-- Запросы текущей погоды [в определённом городе]
-+	{applicationUrl}/current
-+	{applicationUrl}/current/{city}
-- Запросы погоды на пять дней [в определённом городе]
-+	{applicationUrl}/fiveedays
-+	{applicationUrl}/fivedays/{city}
+*Запросы текущей погоды [в определённом городе]
+	+ {applicationUrl}/current
+	+ {applicationUrl}/current/{city}
+* Запросы погоды на пять дней [в определённом городе]
+	+ {applicationUrl}/fiveedays
+	+ {applicationUrl}/fivedays/{city}
 ---
 Владимир Таранчук
