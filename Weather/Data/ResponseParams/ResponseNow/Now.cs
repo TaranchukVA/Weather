@@ -1,8 +1,4 @@
-﻿using Newtonsoft.Json;
-using System;
-using System.Collections.Generic;
-
-namespace Weather.Data.ResponseParams.ResponseNow
+﻿namespace Weather.Data.ResponseParams.ResponseNow
 {
     public class Now : MasterParam
     {
